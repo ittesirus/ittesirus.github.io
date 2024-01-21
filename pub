@@ -1,4 +1,4 @@
 #!/bin/bash
 
 rm -rf ~/GitHub/ittesirus/*
-cp ~/GitHub/mailima/_site/* ~/GitHub/ittesirus
+cp -R ~/GitHub/mailima/_site/* ~/GitHub/ittesirus
